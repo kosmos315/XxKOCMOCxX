@@ -1,0 +1,6 @@
+{
+  "name": "XxKOCMOCxX | HACKER",
+  "description": "ИИ Ассистент с космической темой на базе Gemini 3.5 Flash",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
